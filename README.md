@@ -41,6 +41,12 @@ Unity 场景资产提取器用于从当前场景中自动识别、分类和导�
 5. 选择导出方式并执行导出 
 ```
 
+### 详细使用教程
+
+可以查看下面个人博客的文章
+
+[Unity场景资产提取器 - 完整教程与代码分析 - StellaAstra Blog](https://stellaastra.dpdns.org/posts/sceneassetextractor/sceneassetextractor/)
+
 ### 界面UI
 
 ![image](img/1.png)
